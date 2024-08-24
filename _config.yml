@@ -1,5 +1,5 @@
 # SITE SETTINGS
-title: NaimStudio                        # Title in top navigation bar (navbar) and <head>
+title: Naimur Rahman                        # Title in top navigation bar (navbar) and <head>
 author: Naimur Rahman                    # Used for copyright statement in footer
 # baseurl: "/NaimStudio"                   # Only required if your site is in a directory e.g. https://username.github.io/sitename
                                         # which has url: "https://username.github.io" (no slash) and baseurl: "/sitename" (leading slash)
@@ -8,6 +8,7 @@ author: Naimur Rahman                    # Used for copyright statement in foote
 # SOCIAL PROFILES
 social:
   email: naimurrahman8105@gmail.com
+  linkedin: naimur-rahman-424658180
   # twitter: peterdesmet
   github: naimur105               # Can also be a github_username/repository
   # mastodon: https://mastodon.social/@mastodon_username
