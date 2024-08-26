@@ -33,7 +33,7 @@ Your site's configuration is controlled by [`_config.yml`][config]. Set at least
 
 ## Pages
 
-Create [pages](https://jekyllrb.com/docs/pages/) as Markdown files in your repository (e.g. [`about.md`][pages_about] for [this page]({{ '/about/' | relative_url }})).
+Create [pages](https://jekyllrb.com/docs/pages/) as Markdown files in your repository (e.g. [`about.md`][pages_research] for [this page]({{ '/research/' | relative_url }})).
 
 Pages can have the following [front matter](https://jekyllrb.com/docs/front-matter/) (only `title` is required):
 
@@ -42,7 +42,7 @@ Pages can have the following [front matter](https://jekyllrb.com/docs/front-matt
 title: Title for the page
 description: Description that will appear below the title in the banner
 background: /assets/images/banner_background_image.jpg
-permalink: /about/
+permalink: /research/
 toc: false
 comments: false # See posts
 published: true # See posts
@@ -56,7 +56,7 @@ Pages will use `layout: default` by default.
 
 `title` will appear on the page itself, but you can use a different (e.g. shorter) name in [navigation](#navigation).
 
-`background` can be a [local][pages_home] or [remote][pages_about] image. It will be cropped vertically. For faster page loads, reduce image sizes to less than 1MB (e.g. by reducing resolution to 72dpi and/or width to 2000px).
+`background` can be a [local][pages_home] or [remote][pages_research] image. It will be cropped vertically. For faster page loads, reduce image sizes to less than 1MB (e.g. by reducing resolution to 72dpi and/or width to 2000px).
 
 `background` can also be provided with attribution information:
 
@@ -77,7 +77,7 @@ If your site has many pages, you can organize them in a directory structure, e.g
 
 ```yml
 # As named files                      # As directories with index.md
-about.md                              about/index.md
+research.md                              research/index.md
 courses.md                            courses/
 courses/                                index.md
   2021.md                               2021/

@@ -141,13 +141,13 @@ url: <http://www.example.com>
 
 See the [Jekyll documentation](https://jekyllrb.com/docs/liquid/tags/#link) to create internal links. There are several approaches, but in my opinion the safest option is using root-relative permalinks (starting with `/`) and the `relative_url` filter:
 
-- For pages: [{% raw %}`[link text]({{ '/about/' | relative_url }})`{% endraw %}]({{ '/about/' | relative_url }})
+- For pages: [{% raw %}`[link text]({{ '/research/' | relative_url }})`{% endraw %}]({{ '/research/' | relative_url }})
 - For posts: [{% raw %}`[link text]({{ '/permalink_of_post/' | relative_url }})`{% endraw %}]({{ '/blog/2019/welcome-to-jekyll/' | relative_url }})
 - For images and documents: [{% raw %}`[link text]({{ '/assets/images/name-of-image.jpg' | relative_url }})`{% endraw %}]({{ '/assets/theme/images/chuttersnap-146799-unsplash.jpg' | relative_url }})
 
 You can simplify links if your site lives at a custom root domain (e.g. `https://example.com`, no `baseurl` set in `_config.yml`) or when Jekyll 4.0+ is used. Neither are the case for a default GitHub Pages, so the links below are likely broken:
 
-- For pages: [`[link text](/about/)`](/about/)
+- For pages: [`[link text](/research/)`](/research/)
 - For posts: [`[link text](/permalink_of_post/)`](/blog/2019/welcome-to-jekyll/)
 - For images and documents: [`[link text](/assets/images/name-of-image.jpg)`]('/assets/theme/images/chuttersnap-146799-unsplash.jpg)
 
