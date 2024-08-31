@@ -17,17 +17,17 @@ permalink: /research/
         <div class="col-md-6">
           <figure class="text-center">
             <a href="/assets/research/00 diagramAsset 4MoTe2.png" target="_blank">
-              <img src="/assets/research/00 diagramAsset 4MoTe2.png" class="d-block w-100 img-fluid" alt="Figure 1: Description of the image">
+              <img src="/assets/research/00 diagramAsset 4MoTe2.png" class="d-block w-100 img-fluid" alt="Device structure of MoTe2 SC">
             </a>
-            <figcaption class="mt-2">Figure 1: Brief description of the image.</figcaption>
+            <figcaption class="mt-2">Device structure of MoTe2 SC</figcaption>
           </figure>
         </div>
         <div class="col-md-6">
           <figure class="text-center">
-            <a href="/assets/research/00 diagramAsset 4MoTe2.png" target="_blank">
-              <img src="/assets/research/00 diagramAsset 4MoTe2.png" class="d-block w-100 img-fluid" alt="Figure 2: Description of the image">
+            <a href="/assets/research/01 energy band diagram.png" target="_blank">
+              <img src="/assets/research/01 energy band diagram.png" class="d-block w-100 img-fluid" alt="Energy band diagram of MoTe2 SC">
             </a>
-            <figcaption class="mt-2">Figure 2: Brief description of the image.</figcaption>
+            <figcaption class="mt-2">Energy band diagram of MoTe2 SC</figcaption>
           </figure>
         </div>
       </div>
@@ -36,18 +36,98 @@ permalink: /research/
       <div class="row">
         <div class="col-md-6">
           <figure class="text-center">
-            <a href="/assets/research/00 diagramAsset 4MoTe2.png" target="_blank">
-              <img src="/assets/research/00 diagramAsset 4MoTe2.png" class="d-block w-100 img-fluid" alt="Figure 3: Description of the image">
+            <a href="/assets/research/FIG1A.png" target="_blank">
+              <img src="/assets/research/FIG1A.png" class="d-block w-100 img-fluid" alt="MAPbI3/MASnI3 Tandem SC device structure">
             </a>
-            <figcaption class="mt-2">Figure 3: Brief description of the image.</figcaption>
+            <figcaption class="mt-2">MAPbI3/MASnI3 Tandem SC device structure</figcaption>
           </figure>
         </div>
         <div class="col-md-6">
           <figure class="text-center">
-            <a href="/assets/research/00 diagramAsset 4MoTe2.png" target="_blank">
-              <img src="/assets/research/00 diagramAsset 4MoTe2.png" class="d-block w-100 img-fluid" alt="Figure 4: Description of the image">
+            <a href="/assets/research/FIG1B.png" target="_blank">
+              <img src="/assets/research/FIG1B.png" class="d-block w-100 img-fluid" alt="Filtered radiation spectrum of MAPbI3/MASnI3 Tandem SC">
             </a>
-            <figcaption class="mt-2">Figure 4: Brief description of the image.</figcaption>
+            <figcaption class="mt-2">Filtered radiation spectrum of MAPbI3/MASnI3 Tandem SC</figcaption>
+          </figure>
+        </div>
+      </div>
+    </div>
+    <div class="carousel-item">
+      <div class="row">
+        <div class="col-md-6">
+          <figure class="text-center">
+            <a href="/assets/research/FIG5A.png" target="_blank">
+              <img src="/assets/research/FIG5A.png" class="d-block w-100 img-fluid" alt="MAPbI3/MASnI3 Tandem SC J-V curve">
+            </a>
+            <figcaption class="mt-2">MAPbI3/MASnI3 Tandem SC J-V curve</figcaption>
+          </figure>
+        </div>
+        <div class="col-md-6">
+          <figure class="text-center">
+            <a href="/assets/research/FIG5B.png" target="_blank">
+              <img src="/assets/research/FIG5B.png" class="d-block w-100 img-fluid" alt="MAPbI3/MASnI3 Tandem SC EQE">
+            </a>
+            <figcaption class="mt-2">MAPbI3/MASnI3 Tandem SC EQE</figcaption>
+          </figure>
+        </div>
+      </div>
+    </div>
+    <div class="carousel-item">
+      <div class="row">
+        <div class="col-md-6">
+          <figure class="text-center">
+            <a href="/assets/research/0.15_MoS2_ioniz.png" target="_blank">
+              <img src="/assets/research/0.15_MoS2_ioniz.png" class="d-block w-100 img-fluid" alt="MAPbI3/MASnI3 Tandem SC device structure">
+            </a>
+            <figcaption class="mt-2">Energy loss to ionizaiton by MoS2 SC for 0.15 MeV incident protons</figcaption>
+          </figure>
+        </div>
+        <div class="col-md-6">
+          <figure class="text-center">
+            <a href="/assets/research/0.15_WS2_ioniz.png" target="_blank">
+              <img src="/assets/research/0.15_WS2_ioniz.png" class="d-block w-100 img-fluid" alt="Filtered radiation spectrum of MAPbI3/MASnI3 Tandem SC">
+            </a>
+            <figcaption class="mt-2">Energy loss to ionizaiton by WS2 SC for 0.15 MeV incident protons</figcaption>
+          </figure>
+        </div>
+      </div>
+    </div>
+    <div class="carousel-item">
+      <div class="row">
+        <div class="col-md-6">
+          <figure class="text-center">
+            <a href="/assets/research/NIEL_proton.png" target="_blank">
+              <img src="/assets/research/NIEL_proton.png" class="d-block w-100 img-fluid" alt="MAPbI3/MASnI3 Tandem SC device structure">
+            </a>
+            <figcaption class="mt-2">NIEL for incident proton at different energies</figcaption>
+          </figure>
+        </div>
+        <div class="col-md-6">
+          <figure class="text-center">
+            <a href="/assets/research/XGB_efficiency.png" target="_blank">
+              <img src="/assets/research/XGB_efficiency.png" class="d-block w-100 img-fluid" alt="Filtered radiation spectrum of MAPbI3/MASnI3 Tandem SC">
+            </a>
+            <figcaption class="mt-2">XGBoost regression on power conversion efficiency</figcaption>
+          </figure>
+        </div>
+      </div>
+    </div>
+    <div class="carousel-item">
+      <div class="row">
+        <div class="col-md-6">
+          <figure class="text-center">
+            <a href="/assets/research/XGB_SHAP.png" target="_blank">
+              <img src="/assets/research/XGB_SHAP.png" class="d-block w-100 img-fluid" alt="MAPbI3/MASnI3 Tandem SC device structure">
+            </a>
+            <figcaption class="mt-2">SHAP values for XGBoost regression</figcaption>
+          </figure>
+        </div>
+        <div class="col-md-6">
+          <figure class="text-center">
+            <a href="/assets/research/XGB_materials_on_PCE.png" target="_blank">
+              <img src="/assets/research/XGB_materials_on_PCE.png" class="d-block w-100 img-fluid" alt="Filtered radiation spectrum of MAPbI3/MASnI3 Tandem SC">
+            </a>
+            <figcaption class="mt-2">XGBoost SHAP figure on influence of various defect parameters on the PCE for different materials</figcaption>
           </figure>
         </div>
       </div>
@@ -64,6 +144,8 @@ permalink: /research/
     <span class="visually-hidden">Next</span>
   </a>
 </div>
+
+**Objectives**
 
 - Device design and simulation of thin-film solar cells, specializing in 2D Transition Metal Dichalcogenide (TMDC) and Perovskite materials.
 - Designing tandem solar cell structures.
