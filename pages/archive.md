@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: News
-description: News & blog posts
+title: Blog
+description: Page under construction
 permalink: /blog/
 ---
 
