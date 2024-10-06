@@ -8,10 +8,11 @@ permalink: /
 
 ### Welcome!
 
-Naimur is about to complete his Master's in Physics. Since 2022, He has been doing computational research on energy materials and their applications on photovoltaics. In addition, his current interests are nuclear physics and radiation detectors. He plans to develop efficient organic scintillators that can overcome their shortcomings.
+Naimur has recently completed his Master's in Physics. Since 2022, He has been doing computational research on energy materials and their applications on photovoltaics. In addition, his current interests are radiation detection and measurement. He plans to develop efficient organic scintillators and semiconductor photo-multipliers that can overcome their shortcomings.
 
 ### Updates
 
+- **October 3, 2024** - Successfully defended my Masters Thesis.
 - **September 26, 2024** - Started a new YouTube video series on *Machine Learning in Solar Cells Research*. [link](https://youtube.com/playlist?list=PLNfCk2PMV0ReBUAOmfPBAQl-x4veM4D2x&si=RQjDxmXrh0R01P3u)
 - **September 4, 2024** - Android app *Spaced Lite* is live on Google Play. [link](https://play.google.com/store/apps/details?id=com.naimStudio.spaced_lite&pcampaignid=web_share)
 - **August 29, 2024** - Posted a YouTube video on using CMake in Geant4 (Windows). [link](https://youtu.be/biSEYYd89WI?si=L83urSUdrp9LMnUP)
