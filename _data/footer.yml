@@ -5,18 +5,24 @@
 columns:
   - description:
     links:
-    - text: Name of project partner 1
-      href: http://example.com
+    - text: YouTube Channel
+      href: https://www.youtube.com/@naimslab
       new_window: true
-    - text: Prestigious and long name of project partner 2
-      href: http://example.com
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/naimur-rahman-424658180/
+      new_window: true
+    - text: Google Scholar
+      href: https://scholar.google.com/citations?hl=en&user=zzbVrdsAAAAJ
+      new_window: true
+    - text: ResearchGate
+      href: https://www.researchgate.net/profile/Naimur-Rahman-37
       new_window: true
 
-  - description: > # E.g. funding acknowledgement. Can be Markdown
-      This project is made with ❤ for open source.
-      See [`_data/footer.yml`](https://raw.githubusercontent.com/peterdesmet/petridish/master/_data/footer.yml)
-      to customize this text.
-    links:
+  # - description: > # E.g. funding acknowledgement. Can be Markdown
+  #     This project is made with ❤ for open source.
+  #     See [`_data/footer.yml`](https://raw.githubusercontent.com/peterdesmet/petridish/master/_data/footer.yml)
+  #     to customize this text.
+  #   links:
 
 # Small print license statement to add at the bottom of the footer. Can be Markdown
 # Will be prefixed by "© {{ site.author }}" if defined in _config.yml
