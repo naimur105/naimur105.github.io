@@ -8,6 +8,9 @@ columns:
     - text: YouTube Channel
       href: https://www.youtube.com/@naimslab
       new_window: true
+    - text: Check out my android apps!
+      href: https://play.google.com/store/apps/dev?id=5924068813158510198
+      new_window: true
     - text: LinkedIn
       href: https://www.linkedin.com/in/naimur-rahman-424658180/
       new_window: true
