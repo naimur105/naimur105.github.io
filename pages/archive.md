@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: Blog
-description: Page under construction
+description: Thoughts, Reviews, Random stuffs
 permalink: /blog/
 ---
 
