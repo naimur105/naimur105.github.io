@@ -158,6 +158,8 @@ permalink: /research/
 
 **Publications**
 
+- **N. Rahman**, I. Mamoon, M. A. Sattar, M. F. Rahman, M. M. Islam, and M. D. Haque, “Simulation and Analysis of Different TMDC Solar Cells Under Proton Radiation Using Monte Carlo Methods, SCAPS, and Machine Learning Techniques,” *J. Phys. Chem. Solids*, p. 112479, Nov. 2024, doi: [10.1016/j.jpcs.2024.112479](https://doi.org/10.1016/j.jpcs.2024.112479), (Nov. 2024).
+
 - **N. Rahman** et al., "Impact of CdTe BSF layer on enhancing the efficiency of MoSe2 solar cell," *Journal of Optics*, DOI: [10.1007/s12596-024-01855-5](https://doi.org/10.1007/s12596-024-01855-5), (May 2024).
 
 - **S. Ahmed**, N. Rahman et al., "Performance investigation of MAPbI3/MASnI3 based all-perovskite tandem solar cell using SCAPS simulation," *Physica Scripta*, vol. 99, no. 5, p. 055520, DOI: [10.1088/1402-4896/ad36bd](https://doi.org/10.1088/1402-4896/ad36bd), (May 2024).
