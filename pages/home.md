@@ -26,6 +26,12 @@ Naimur has recently completed his Master's in Physics. Since 2022, He has been d
       <p class="mt-2">Android Apps</p>
     </div>
     <div class="text-center">
+      <a href="https://github.com/naimur105" target="_blank" class="btn btn-light border rounded-circle p-3" title="GitHub">
+        <i class="fab fa-github fa-2x"></i>
+      </a>
+      <p class="mt-2">GitHub</p>
+    </div>
+    <div class="text-center">
       <a href="https://www.linkedin.com/in/naimur-rahman-424658180/" target="_blank" class="btn btn-light border rounded-circle p-3" title="LinkedIn">
         <i class="fab fa-linkedin fa-2x"></i>
       </a>
@@ -56,5 +62,4 @@ Naimur has recently completed his Master's in Physics. Since 2022, He has been d
 - **September 4, 2024** - Android app *Spaced Lite* is live on Google Play. [link](https://play.google.com/store/apps/details?id=com.naimStudio.spaced_lite&pcampaignid=web_share)
 - **August 29, 2024** - Posted a YouTube video on using CMake in Geant4 (Windows). [link](https://youtu.be/biSEYYd89WI?si=L83urSUdrp9LMnUP)
 - **August 19, 2024** - Received certificate for attending the 2024 MTV Nuclear Engineering Summer School ([see post](https://www.linkedin.com/posts/naimur-rahman-424658180_nuclearengineering-research-mtvconsortium-activity-7231317469259251713-FqEA?utm_source=share&utm_medium=member_desktop)).
-- **August 15, 2024** - Naimur's very first youtube video on Monte Carlo Simulation. It is horrible. DO NOT click [here](https://youtu.be/5TB05tdeaD4?si=BUKSzxEjJZWryB24) to see it.
 - **June 20, 2024** - Android app *Spaced Lite* available for closed testing. Click [here](https://groups.google.com/g/naimur1708105) to become a tester! [Link](https://play.google.com/store/apps/details?id=com.naimStudio.spaced_lite&pcampaignid=web_share)
