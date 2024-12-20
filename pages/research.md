@@ -10,7 +10,7 @@ permalink: /research/
 
 ### Thin-Film Solar Cell Device Design and Optimization
 
-<div id="researchCarousel" class="carousel slide" data-bs-ride="carousel">
+<!-- <div id="researchCarousel" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
       <div class="row">
@@ -133,9 +133,9 @@ permalink: /research/
       </div>
     </div>
   </div>
-
+-->
   <!-- Controls -->
-  <a class="carousel-control-prev" href="#researchCarousel" role="button" data-bs-slide="prev">
+  <!-- <a class="carousel-control-prev" href="#researchCarousel" role="button" data-bs-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
     <span class="visually-hidden">Previous</span>
   </a>
@@ -143,7 +143,8 @@ permalink: /research/
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="visually-hidden">Next</span>
   </a>
-</div>
+</div>  -->
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTI46KxyRBEvau2smATtqWYw9Iv4Ft_azqveGQx_P7ctopf-Us5X-xyYSyh8SqUTyqn6cU71Fb8GdAW/embed?start=true&loop=true&delayms=3000" frameborder="0" width="100%" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 **Objectives**
 
