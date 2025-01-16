@@ -157,9 +157,11 @@ permalink: /research/
 - Optimizing solar cell structures for improved power conversion efficiency (PCE), open-circuit voltage (Voc), short-circuit current (Jsc), and fill factor (FF).
 - Leveraging ML models for performance prediction.
 
-**Publications**
+**Publications(5)**
 
-- **N. Rahman**, I. Mamoon, M. A. Sattar, M. F. Rahman, M. M. Islam, and M. D. Haque, “Simulation and Analysis of Different TMDC Solar Cells Under Proton Radiation Using Monte Carlo Methods, SCAPS, and Machine Learning Techniques,” *J. Phys. Chem. Solids*, p. 112479, Nov. 2024, doi: [10.1016/j.jpcs.2024.112479](https://doi.org/10.1016/j.jpcs.2024.112479), (Nov. 2024).
+- **N. Rahman**, I. Mamoon, M. A. Sattar, M. F. Rahman, M. M. Islam, and M. D. Haque, “Simulation and Analysis of Different TMDC Solar Cells Under Proton Radiation Using Monte Carlo Methods, SCAPS, and Machine Learning Techniques,” *J. Phys. Chem. Solids*, p. 112479, doi: [10.1016/j.jpcs.2024.112479](https://doi.org/10.1016/j.jpcs.2024.112479), (Apr. 2025).
+
+- A. Mohandes, A. C. Roy, **N. Rahman**, M. Amami, S. Ezzine, and M. Ferdous Rahman, “A numerical strategy to achieving efficiency exceeding 27% with a novel dual absorber perovskite solar cell using BaZrSe3 and CsPbI3,” Opt. Quantum Electron., vol. 57, no. 1, p. 113, doi: [10.1007/s11082-025-08043-0](http://doi.org/10.1007/s11082-025-08043-0), (Jan. 2025).
 
 - **N. Rahman** et al., "Impact of CdTe BSF layer on enhancing the efficiency of MoSe2 solar cell," *Journal of Optics*, DOI: [10.1007/s12596-024-01855-5](https://doi.org/10.1007/s12596-024-01855-5), (May 2024).
 

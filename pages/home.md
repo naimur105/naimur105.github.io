@@ -56,6 +56,7 @@ Naimur has recently completed his Master's in Physics. He has been doing computa
 
 ### Updates
 
+- **January 15, 2025** - A collaborative research work got published in the [Journal of Optical and Quantum Electronics](https://doi.org/10.1007/s11082-025-08043-0).
 - **November 29, 2024** - My thesis paper got accepted in the [Journal of Physics and Cehmistry of Solids](https://doi.org/10.1016/j.jpcs.2024.112479).
 - **October 3, 2024** - Successfully defended my Masters Thesis.
 - **September 26, 2024** - Started a new YouTube video series on *Machine Learning in Solar Cells Research*. [link](https://youtube.com/playlist?list=PLNfCk2PMV0ReBUAOmfPBAQl-x4veM4D2x&si=RQjDxmXrh0R01P3u)
