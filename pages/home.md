@@ -56,6 +56,7 @@ Naimur has recently completed his Master's in Physics. He has been doing computa
 
 ### Updates
 
+- **January 20, 2025** - Started working as a Trainee Engineer at [Ulkasemi Pvt. Ltd.](https://www.ulkasemi.com/).
 - **January 15, 2025** - A collaborative research work got published in the [Journal of Optical and Quantum Electronics](https://doi.org/10.1007/s11082-025-08043-0).
 - **November 29, 2024** - My thesis paper got accepted in the [Journal of Physics and Cehmistry of Solids](https://doi.org/10.1016/j.jpcs.2024.112479).
 - **October 3, 2024** - Successfully defended my Masters Thesis.
