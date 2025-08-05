@@ -165,7 +165,7 @@ permalink: /research/
 
 - **N. Rahman** et al., "Impact of CdTe BSF layer on enhancing the efficiency of MoSe2 solar cell," *Journal of Optics*, DOI: [10.1007/s12596-024-01855-5](https://doi.org/10.1007/s12596-024-01855-5), (May 2024).
 
-- **S. Ahmed**, N. Rahman et al., "Performance investigation of MAPbI3/MASnI3 based all-perovskite tandem solar cell using SCAPS simulation," *Physica Scripta*, vol. 99, no. 5, p. 055520, DOI: [10.1088/1402-4896/ad36bd](https://doi.org/10.1088/1402-4896/ad36bd), (May 2024).
+- S. Ahmed, **N. Rahman** et al., "Performance investigation of MAPbI3/MASnI3 based all-perovskite tandem solar cell using SCAPS simulation," *Physica Scripta*, vol. 99, no. 5, p. 055520, DOI: [10.1088/1402-4896/ad36bd](https://doi.org/10.1088/1402-4896/ad36bd), (May 2024).
 
 - **N. Rahman** et al., "Assessing the performance of MoTe2 based solar cell with Cu2O hole transport layer through device simulation," *Discover Materials*, vol. 3, no. 1, p. 25, DOI: [10.1007/s43939-023-00061-7](https://doi.org/10.1007/s43939-023-00061-7), (Sep. 2023).
 
