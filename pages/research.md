@@ -157,7 +157,9 @@ permalink: /research/
 - Optimizing solar cell structures for improved power conversion efficiency (PCE), open-circuit voltage (Voc), short-circuit current (Jsc), and fill factor (FF).
 - Leveraging ML models for performance prediction.
 
-**Publications(6)**
+**Publications(7)**
+
+- M. R. R. Rowdra, K. I. Atol, S. J. Hossain, **N. Rahman**, I. Mamoon, M. F. Rahman, and M. D. Haque, “Numerical and machine learning approaches for efficiency optimization of lead-free Rb₂LiGaI₆ double perovskite solar cells,” *Inorg. Chem. Commun.*, vol. 49, p. 115963, doi: [10.1016/j.inoche.2025.115963](https://doi.org/10.1016/j.inoche.2025.115963), (Dec. 2025).
 
 - **N. Rahman**, S. M. A. J. Adib, M. M. Mia, M. H. Ali, M. D. Haque, B. Sultana, A. T. M. S. Islam, A. Irfan, and M. F. Rahman, “Understanding the Role of Six BSF on SnSe Thin Film Solar Cell and Efficiency Enhancement Beyond 32%,” *ChemistrySelect*, vol. 10, no. 35, doi: [10.1002/slct.202502058](https://doi.org/10.1002/slct.202502058), (Sep. 2025).
 
