@@ -8,7 +8,7 @@ permalink: /
 
 ### Welcome!
 
-Naimur has recently completed his Master's in Physics. He has been doing computational research on energy materials and their applications on photovoltaics since 2022. In addition, his current interests are radiation detection and measurement. He plans to develop efficient organic scintillators and semiconductor photo-multipliers that can overcome their shortcomings.
+Naimur completed his BSc and MSc in Physics and is currently working as an Assistant Engineer at Ulkasemi Pvt. Ltd. He has been engaged in computational research on energy materials and their applications in photovoltaics since 2022. His research interests include VLSI Physical Design and photovoltaics.
 
 <div class="container text-center mt-4">
   <h4>Explore My Works</h4>

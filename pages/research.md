@@ -157,7 +157,9 @@ permalink: /research/
 - Optimizing solar cell structures for improved power conversion efficiency (PCE), open-circuit voltage (Voc), short-circuit current (Jsc), and fill factor (FF).
 - Leveraging ML models for performance prediction.
 
-**Publications(7)**
+**Publications(8)**
+
+- Md. Al Imran, Md. Minhazul Haque, Md. Tayyab Ameri Turan, Jahid Rehman, Mst Mukty Khatun, **N. Rahman**, Md. Dulal Haque, and A. T. M. Saiful Islam, “A comprehensive analysis on novel lead-free vacancy ordered K₂NiCl₆ based perovskite solar cell using DFT, SCAPS-1D simulation and machine learning,” *Discover Electronics*, vol. 3, no. 1, p. 45, doi: [10.1007/s44291-026-00199-7](https://doi.org/10.1007/s44291-026-00199-7), (Mar. 2026).
 
 - M. R. R. Rowdra, K. I. Atol, S. J. Hossain, **N. Rahman**, I. Mamoon, M. F. Rahman, and M. D. Haque, “Numerical and machine learning approaches for efficiency optimization of lead-free Rb₂LiGaI₆ double perovskite solar cells,” *Inorg. Chem. Commun.*, vol. 49, p. 115963, doi: [10.1016/j.inoche.2025.115963](https://doi.org/10.1016/j.inoche.2025.115963), (Dec. 2025).
 
