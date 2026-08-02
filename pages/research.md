@@ -1,7 +1,7 @@
 ---
 title: Research
 description: |
-  [Organic Scintillators](#){:.btn .btn-sm .btn-light}
+  [VLSI](#){:.btn .btn-sm .btn-light}
   [Solar Cells](#thin-film-solar-cell-device-design-and-optimization){:.btn .btn-sm .btn-light}
 
 background: "/assets/theme/images/banner_ytArtboard 1.png"
